@@ -3,7 +3,7 @@ name: NewBugReport
 description: File a bug report
 about: template for class
 title: "[Bug]: "
-labels: ["bug", "triage"]
+labels: ["bug"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
   - octocat
